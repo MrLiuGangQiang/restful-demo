@@ -1,2 +1,2 @@
 name = "http-json-test"
-type = "javascript"
+main = "worker.js"

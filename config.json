@@ -1,8 +1,1 @@
-{
-  "data": {
-    "checkin_date": "2026-01-08",
-    "quota_awarded": 22360951
-  },
-  "message": "签到成功",
-  "success": true
-}
+{"message":"签到成功，获得 $25 额度","success":true}
